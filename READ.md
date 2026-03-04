@@ -1,1 +1,0 @@
-calculator -> desmos -> 3blue1brown animation
